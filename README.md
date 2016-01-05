@@ -1,3 +1,3 @@
 # Blink
 No coder.
-DO not Tell me what to do
+Do not tell me what to do . Just DO it
